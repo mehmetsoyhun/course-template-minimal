@@ -6,6 +6,7 @@ chapters:
 - file: general_information/intro
 - file: content/intro_content
   sections:
+  - file: Arabische(s)Alphabet-Tastatur
   - file: content/static_content
   - file: content/interactive_notebook
 - file: general_information/CoC
